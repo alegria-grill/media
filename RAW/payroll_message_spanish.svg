@@ -28,14 +28,14 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      inkscape:zoom="0.51822917"
-     inkscape:cx="804.66332"
-     inkscape:cy="540.30151"
+     inkscape:cx="941.66834"
+     inkscape:cy="540.3015"
      inkscape:window-width="1868"
      inkscape:window-height="1014"
      inkscape:window-x="42"
      inkscape:window-y="31"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer2" />
+     inkscape:current-layer="layer1" />
   <defs
      id="defs1">
     <rect
@@ -128,28 +128,24 @@
        height="1096.5381"
        x="-29.498066"
        y="-8.7483711" />
-    <g
-       id="g4"
-       transform="matrix(1.5882754,0,0,1.5882754,-1050.9307,-24.245742)">
-      <path
-         id="path57"
-         d="M 200,0.40000001 C 172.25,1.99 133.09,8.79 92.339996,31.35 40.289997,60.169998 12.07,100.08 0.03999329,119.63 c 0,-6.84001 0,-13.68 -0.01000001,-20.519999 0,-7.550003 0,-15.110001 -0.01,-22.660004 C 0.02,51.09 0.01,25.73 0,0.37 c 50.07,0.01 100.15,0.01 150.22,0.02 6.8,0 13.60001,0 20.4,0 9.79,0 19.59001,0 29.38,0.01 z"
-         style="fill:#e6e9ec;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         transform="matrix(-2.5529126,0,0,2.5529126,1926.541,-2.5021295)"
-         clip-path="url(#clipPath58)" />
-      <path
-         id="path59"
-         d="m 170.62,0.39000002 c 0.14999,-0.01 0.3,-0.02 0.44999,-0.03 h -20.66 H 0 V 76.470001 99.150002 c 0.01,-0.02 0.02,-0.03 0.03,-0.05 C 10.93,82.300003 34.130001,51.5 74.809998,28.35 111.06,7.7199998 146.14999,1.74 170.60001,0.39000002 c 0.01,0 0.01,0 0.02,0 z"
-         style="fill:#ffbd59;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         transform="matrix(-2.5529126,0,0,2.5529126,1926.541,-2.5021295)"
-         clip-path="url(#clipPath60)" />
-      <path
-         id="path61"
-         d="M 150.42,0.37 H 0 v 76.110003 c 4.3000002,-4.739998 8.8400002,-9.400001 13.64,-13.93 C 59.330002,19.389999 110.22,4.6799998 150.42,0.37 Z"
-         style="fill:#f9f9f9;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         transform="matrix(-2.5529126,0,0,2.5529126,1926.541,-2.5021295)"
-         clip-path="url(#clipPath62)" />
-    </g>
+    <path
+       id="path57"
+       d="M 200,0.40000001 C 172.25,1.99 133.09,8.79 92.339996,31.35 40.289997,60.169998 12.07,100.08 0.03999329,119.63 c 0,-6.84001 0,-13.68 -0.01000001,-20.519999 0,-7.550003 0,-15.110001 -0.01,-22.660004 C 0.02,51.09 0.01,25.73 0,0.37 c 50.07,0.01 100.15,0.01 150.22,0.02 6.8,0 13.60001,0 20.4,0 9.79,0 19.59001,0 29.38,0.01 z"
+       style="fill:#e6e9ec;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="matrix(-4.0547283,0,0,4.0547283,2045.2304,-52.033667)"
+       clip-path="url(#clipPath58)" />
+    <path
+       id="path59"
+       d="m 170.62,0.39000002 c 0.14999,-0.01 0.3,-0.02 0.44999,-0.03 h -20.66 H 0 V 76.470001 99.150002 c 0.01,-0.02 0.02,-0.03 0.03,-0.05 C 10.93,82.300003 34.130001,51.5 74.809998,28.35 111.06,7.7199998 146.14999,1.74 170.60001,0.39000002 c 0.01,0 0.01,0 0.02,0 z"
+       style="fill:#ffbd59;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="matrix(-4.0547283,0,0,4.0547283,2022.4428,-36.690349)"
+       clip-path="url(#clipPath60)" />
+    <path
+       id="path61"
+       d="M 150.42,0.37 H 0 v 76.110003 c 4.3000002,-4.739998 8.8400002,-9.400001 13.64,-13.93 C 59.330002,19.389999 110.22,4.6799998 150.42,0.37 Z"
+       style="fill:#f9f9f9;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="matrix(-4.0547283,0,0,4.0547283,2022.4428,-36.690349)"
+       clip-path="url(#clipPath62)" />
     <path
        id="path2"
        d="m 170.62,0.39000002 c 0.14999,-0.01 0.3,-0.02 0.44999,-0.03 h -20.66 H 0 V 76.470001 99.150002 c 0.01,-0.02 0.02,-0.03 0.03,-0.05 C 10.93,82.300003 34.130001,51.5 74.809998,28.35 111.06,7.7199998 146.14999,1.74 170.60001,0.39000002 c 0.01,0 0.01,0 0.02,0 z"
@@ -169,59 +165,62 @@
      inkscape:label="text">
     <text
        xml:space="preserve"
-       style="font-weight:bold;font-size:48px;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans Bold';text-align:center;text-anchor:middle;fill:#ffbd59;fill-opacity:1;stroke-width:0;stroke-dasharray:none"
-       x="257.52017"
-       y="68.435265"
+       style="font-weight:bold;font-size:56px;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans Bold';text-align:center;text-anchor:middle;fill:#ff0000;fill-opacity:1;stroke-width:0;stroke-dasharray:none"
+       x="400.86615"
+       y="70.147728"
        id="text4"><tspan
          sodipodi:role="line"
          id="tspan4"
-         x="264.19217"
-         y="68.435265">AVISO IMPORTANTE </tspan></text>
+         x="408.65015"
+         y="70.147728"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:56px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold'">AVISO IMPORTANTE </tspan></text>
     <text
        xml:space="preserve"
-       style="font-weight:bold;font-size:48px;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans Bold';text-align:center;text-anchor:middle;fill:#e6e9ec;fill-opacity:1;stroke-width:0;stroke-dasharray:none"
-       x="870.51508"
-       y="68.700615"
+       style="font-weight:bold;font-size:56px;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans Bold';text-align:center;text-anchor:middle;fill:#e6e9ec;fill-opacity:1;stroke-width:0;stroke-dasharray:none"
+       x="1112.6136"
+       y="72.998978"
        id="text5"><tspan
          sodipodi:role="line"
          id="tspan5"
-         x="870.51508"
-         y="68.700615">SOBRE LA NÓMINA DE PAGO</tspan></text>
+         x="1112.6136"
+         y="72.998978"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:56px;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold'">SOBRE LA NÓMINA DE PAGO</tspan></text>
     <text
        xml:space="preserve"
-       style="font-weight:bold;font-size:48px;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans Bold';text-align:center;text-anchor:middle;fill:#08377c;fill-opacity:1;stroke-width:0;stroke-dasharray:none"
-       x="1739.5422"
-       y="51.73711"
+       style="font-weight:bold;font-size:42.6667px;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans Bold';text-align:center;text-anchor:middle;fill:#08377c;fill-opacity:1;stroke-width:0;stroke-dasharray:none"
+       x="1759.2255"
+       y="41.902901"
        id="text6"><tspan
          sodipodi:role="line"
          id="tspan6"
-         x="1739.5422"
-         y="51.73711">Enero 10, 2024</tspan></text>
+         x="1759.2255"
+         y="41.902901"
+         style="font-size:42.6667px">Enero 10, 2024</tspan></text>
     <text
        xml:space="preserve"
        id="text7"
-       style="font-weight:bold;font-size:53.3333px;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans Bold';text-align:center;white-space:pre;shape-inside:url(#rect7);display:inline;fill:#ffbd59;fill-opacity:1;stroke-width:0;stroke-dasharray:none"
+       style="font-weight:bold;font-size:53.3333px;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans Bold';text-align:center;white-space:pre;shape-inside:url(#rect7);display:inline;fill:#f9f9f9;fill-opacity:1;stroke-width:0;stroke-dasharray:none"
        transform="translate(-14.343255,-30.102642)"
        x="-623.18384"
        y="0"><tspan
          x="30.335938"
          y="198.55641"
-         id="tspan2"><tspan
+         id="tspan8"><tspan
            dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -0.00010299683 0 0 0 0 0 0 0 0 0 0 -0.00010299683"
-           style="text-align:start;text-anchor:start"
-           id="tspan1">Debido al aumento en la nómina de pago tanto para DEL como </tspan></tspan><tspan
+           style="text-align:start"
+           id="tspan7">Debido al aumento en la nómina de pago tanto para DEL como </tspan></tspan><tspan
          x="30.335938"
          y="265.22303"
-         id="tspan14"><tspan
+         id="tspan11"><tspan
            dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -0.00011348724 0 0 0 0 0 0 0 0 0 0 -0.00010299683"
-           style="text-align:start;text-anchor:start"
-           id="tspan3">para LaserWeld, habrá un cambio efectivo a partir de hoy </tspan></tspan><tspan
+           style="text-align:start"
+           id="tspan10">para LaserWeld, habrá un cambio efectivo a partir de hoy </tspan></tspan><tspan
          x="30.335938"
          y="331.88966"
-         id="tspan16"><tspan
+         id="tspan13"><tspan
            dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -0.00010490417"
-           style="text-align:start;text-anchor:start"
-           id="tspan15">(01/10/2024) para la nómina de la próxima semana.</tspan></tspan></text>
+           style="text-align:start"
+           id="tspan12">(01/10/2024) para la nómina de la próxima semana.</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text8"
@@ -233,7 +232,7 @@
        y="429.9166"
        id="text9"><tspan
          sodipodi:role="line"
-         id="tspan9"></tspan></text>
+         id="tspan9" /></text>
     <text
        xml:space="preserve"
        id="text10"
@@ -241,19 +240,19 @@
        transform="translate(-9.1159636,25.849463)"><tspan
          x="25.695312"
          y="369.96266"
-         id="tspan18"><tspan
+         id="tspan15"><tspan
            dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -0.00011348724 0 0 0 0 0 0 0 0 0 -0.00011348724 0 0 0 0 0 0 -0.00010490417 0 0 0 0 0 0 0 0 -0.00010490417"
-           id="tspan17">La semana de pago cambiará de miércoles a martes. (las ventas deberán </tspan></tspan><tspan
+           id="tspan14">La semana de pago cambiará de miércoles a martes. (las ventas deberán </tspan></tspan><tspan
          x="25.695312"
          y="436.62928"
-         id="tspan20"><tspan
-           dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -0.00011348724 0 0 0 0 0 0 0 0 -0.00010299683 0 0 0 0 0 0 0 0 -0.00010490417"
-           id="tspan19">entregarse el martes antes del las 4 p. m.) y el cheque de pago se </tspan></tspan><tspan
+         id="tspan31"><tspan
+           dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -0.00011348724 0 0 0 0 0 0 0 -0.00010299683 0 0 0 0 0 0 0 0 -0.00010490417"
+           id="tspan16">entregarse el martes antes del las 4 p.m.) y el cheque de pago se </tspan></tspan><tspan
          x="25.695312"
          y="503.29591"
-         id="tspan22"><tspan
+         id="tspan34"><tspan
            dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -0.00011348724"
-           id="tspan21">entregará el viernes de cada semana. como de costumbre.</tspan></tspan></text>
+           id="tspan33">entregará el viernes de cada semana. como de costumbre.</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text11"
@@ -261,18 +260,18 @@
        transform="translate(-3.4347126,8.6576349)"><tspan
          x="18.414062"
          y="614.56617"
-         id="tspan24"><tspan
+         id="tspan36"><tspan
            dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -0.00010299683"
-           id="tspan23">En los últimos años, LaserWeld y DEL han sido extremadamente </tspan></tspan><tspan
+           id="tspan35">En los últimos años, LaserWeld y DEL han sido extremadamente </tspan></tspan><tspan
          x="18.414062"
          y="681.2328"
-         id="tspan25">bendecidos y han podido incorporar.
+         id="tspan37">bendecidos y han podido incorporar.
 </tspan><tspan
          x="18.414062"
          y="798.23609"
-         id="tspan27"><tspan
+         id="tspan39"><tspan
            dx="0 47.413303 32.586651 29.493286 32.586655 32.586655 29.653305 14.826645 47.413315 14.82663 29.65332 47.4133 32.586639 20.693359 32.586639 29.65332 14.82663 32.586639 32.58667 28.693298 28.426636 32.58667 29.653259 14.82666 29.65332 14.82666 14.82666 29.653259 32.58667 32.58667 14.826599 32.58667 32.053345"
-           id="tspan26">muchos miembros nuevos al equipo.</tspan></tspan></text>
+           id="tspan38">muchos miembros nuevos al equipo.</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text12"
@@ -280,12 +279,12 @@
        transform="translate(-18.296457,4.9573846)"><tspan
          x="32.369141"
          y="779.01148"
-         id="tspan29"><tspan
+         id="tspan41"><tspan
            dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -0.00010299683 0 0 0 0 0 0 -0.00010490417 0 0 0 0 -0.00010299683 0 0 0 0 0 0 0 0 -0.00010490417 0 0 0 -0.00010299683"
-           id="tspan28">Para contar un poco de historia, en 2022 habían 77 empleados de DEL y </tspan></tspan><tspan
+           id="tspan40">Para contar un poco de historia, en 2022 habían 77 empleados de DEL y </tspan></tspan><tspan
          x="32.369141"
          y="845.67811"
-         id="tspan30">LaserWeld. Hoy en 2024 hay 170 empleados de DEL y LaserWeld.</tspan></text>
+         id="tspan42">LaserWeld. Hoy en 2024 hay 170 empleados de DEL y LaserWeld.</tspan></text>
     <text
        xml:space="preserve"
        id="text13"
@@ -293,16 +292,17 @@
        x="1110.7721"
        y="0"
        transform="translate(-110.81886,-20.914965)"><tspan
-         x="645.14548"
+         x="630.0737"
          y="962.40838"
-         id="tspan32"><tspan
-           style="font-weight:500;font-family:'Noto Serif';-inkscape-font-specification:'Noto Serif Medium'"
-           id="tspan31">Estamos agradecidos por el trabajoy felices por </tspan></tspan><tspan
-         x="836.95377"
+         id="tspan44"><tspan
+           dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -0.00012207031"
+           style="font-style:italic;font-weight:normal;font-stretch:condensed;font-family:'Noto Serif';-inkscape-font-specification:'Noto Serif Italic Condensed'"
+           id="tspan43">Estamos agradecidos por el trabajoy felices por todos los </tspan></tspan><tspan
+         x="1176.3138"
          y="1025.0904"
-         id="tspan34"><tspan
-           style="font-weight:500;font-family:'Noto Serif';-inkscape-font-specification:'Noto Serif Medium'"
-           id="tspan33">todos los nuevos miembros del equipo.</tspan></tspan></text>
+         id="tspan46"><tspan
+           style="font-style:italic;font-weight:normal;font-stretch:condensed;font-family:'Noto Serif';-inkscape-font-specification:'Noto Serif Italic Condensed'"
+           id="tspan45">nuevos miembros del equipo.</tspan></tspan></text>
     <g
        id="g91"
        transform="matrix(1.8117406,0,0,1.8117406,-996.02809,-871.04175)">
